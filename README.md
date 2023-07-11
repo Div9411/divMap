@@ -1,4 +1,4 @@
-divMap
+# divMap
 CHECK HERE :- https://div9411.github.io/divMap/
 divMap is a map application made with Vanilla JavaScript and Leaflet Api to store workouts like running and cycling.
 
